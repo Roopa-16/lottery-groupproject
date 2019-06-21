@@ -4,9 +4,6 @@ var randomNum;
 $(document).ready(function () {
 
 
-
-
-
     //create button listener
     $("button").click(function () {
         //create a nine digit random number
